@@ -16,5 +16,6 @@ public class Hello extends Activity {
         Toast.makeText(Hello.this, "fafa", Toast.LENGTH_SHORT).show();
         Toast.makeText(Hello.this, "fafa", Toast.LENGTH_SHORT).show();
         Toast.makeText(Hello.this, "fafa", Toast.LENGTH_SHORT).show();
+        Toast.makeText(Hello.this, "fafa", Toast.LENGTH_SHORT).show();
     }
 }
