@@ -14,5 +14,6 @@ public class Hello extends Activity {
         super.onCreate(savedInstanceState);
 
         Toast.makeText(Hello.this, "fafa", Toast.LENGTH_SHORT).show();
+        Toast.makeText(Hello.this, "fafa", Toast.LENGTH_SHORT).show();
     }
 }
